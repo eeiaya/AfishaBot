@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Выставка «С наукой по жизни 90 лет без перерыва»",
+        "priceMin": 0,
+        "author": "Аносова Е.Ф.",
+        "place": "Владимирская областная научная библиотека",
+        "link": "https://www.culture.ru/events/5188890/vystavka-s-naukoi-po-zhizni-90-let-bez-pereryva"
+    },
+    {
+        "name": "Выставка «Слово. Форма. Цвет»",
+        "priceMin": 100,
+        "author": "Игорь Черноглазов",
+        "place": "Культурно-выставочное пространство «Галерея 4–6»",
+        "link": "https://www.culture.ru/events/5185745/vystavka-slovo-forma-cvet"
+    },
+    {
+        "name": "Выставка «Сто лет — сто шедевров»",
+        "priceMin": 50,
+        "author": "Наталья Бритова",
+        "place": "Центр пропаганды изобразительного искусства г. Владимир",
+        "link": "https://www.culture.ru/events/5169590/vystavka-sto-let-sto-shedevrov"
+    },
+    {
+        "name": "Выставка «Отчизны внемлем призыванье…»",
+        "priceMin": 0,
+        "author": "Марина Башмакова",
+        "place": "Владимирская областная научная библиотека",
+        "link": "https://www.culture.ru/events/5167419/vystavka-otchizny-vnemlem-prizyvane"
+    },
+    {
+        "name": "Выставка «Конституция: история, настоящее и будущее»",
+        "priceMin": 0,
+        "author": "Мешкова Мария Владимировна",
+        "place": "Владимирская областная специальная библиотека для слепых",
+        "link": "https://www.culture.ru/events/5167114/vystavka-konstituciya-istoriya-nastoyashee-i-budushee"
+    },
+    {
+        "name": "Выставка «От промыслов к промдизайну. Дизайн Владимирской области XX–XXI веков»",
+        "priceMin": 180,
+        "author": "Парфенов А.",
+        "place": "Музейный центр «Палаты»",
+        "link": "https://www.culture.ru/events/5154554/vystavka-ot-promyslov-k-promdizainu-dizain-vladimirskoi-oblasti-xx-xxi-vekov"
+    },
+    {
+        "name": "Выставка «Память усадебных интерьеров»",
+        "priceMin": 200,
+        "author": "Неизвестный художник. Пейзаж с охотниками. Вторая половина XVIII в.",
+        "place": "Музейный центр «Палаты»",
+        "link": "https://www.culture.ru/events/5154262/vystavka-pamyat-usadebnykh-intererov"
+    },
+    {
+        "name": "Выставка «Семейный портрет»",
+        "priceMin": 0,
+        "author": "ДХШ",
+        "place": "Детская художественная школа г. Владимира",
+        "link": "https://www.culture.ru/events/5152480/vystavka-semeinyi-portret"
+    },
+    {
+        "name": "Выставка «Новогодние игрушки»",
+        "priceMin": 0,
+        "author": "Светлана Алексеева",
+        "place": "Дом культуры «Спасское»",
+        "link": "https://www.culture.ru/events/5151015/vystavka-novogodnie-igrushki"
+    },
+    {
+        "name": "Выставка «В поисках счастья»",
+        "priceMin": 50,
+        "author": "Илья Вячеславович Конотопов",
+        "place": "Центр пропаганды изобразительного искусства г. Владимир",
+        "link": "https://www.culture.ru/events/5147627/vystavka-v-poiskakh-schastya"
+    },
+    {
+        "name": "Выставка «В гостях у сказки»",
+        "priceMin": 0,
+        "author": "Козлов Артём 13 лет",
+        "place": "Детская школа искусств № 3 г. Владимира",
+        "link": "https://www.culture.ru/events/5139433/vystavka-v-gostyakh-u-skazki"
+    },
+    {
+        "name": "Выставка «Здравствуй, зима!»",
+        "priceMin": 0,
+        "author": "Орлова Алеся, 11 лет. РЕПЕТИЦИЯ НОВОГО ГОДА. пр. Егорова Н.В. ДШИ №6 г. Владимир",
+        "place": "Детская школа искусств № 6 им. В. А. Солоухина",
+        "link": "https://www.culture.ru/events/5112226/vystavka-zdravstvui-zima"
+    },
+    {
+        "name": "Выставка «В отеческой короне блеснула на российском троне…»",
+        "priceMin": 0,
+        "author": "Анастасия Кудасова",
+        "place": "Владимирская областная научная библиотека",
+        "link": "https://www.culture.ru/events/5102868/vystavka-v-otecheskoi-korone-blesnula-na-rossiiskom-trone"
+    },
+    {
+        "name": "Выставка «Горизонт»",
+        "priceMin": 100,
+        "author": "В.А. Левахин",
+        "place": "Культурно-выставочное пространство «Галерея 4–6»",
+        "link": "https://www.culture.ru/events/4966999/vystavka-gorizont"
+    },
+    {
+        "name": "Выставка «Борис Кустодиев. Патриархальная Россия»",
+        "priceMin": 0,
+        "author": "Кустодиев Б. М. Дунькина роща. В имении Поленовых. Этюд. 1906-1908 гг.",
+        "place": "Музейный центр «Палаты»",
+        "link": "https://www.culture.ru/events/4787223/vystavka-boris-kustodiev-patriarkhalnaya-rossiya"
+    },
+    {
+        "name": "Выставка «Христос и грешница». Тайна одной картины»",
+        "priceMin": 80,
+        "author": "Неизвестный художник. Христос и грешница",
+        "place": "Музейный центр «Палаты»",
+        "link": "https://www.culture.ru/events/4787221/vystavka-khristos-i-greshnica-taina-odnoi-kartiny"
+    },
+    {
+        "name": "Выставка «Произведения западноевропейского искусства XVII — XIX вв.»",
+        "priceMin": 0,
+        "author": "Солодилов А.",
+        "place": "Музейный центр «Палаты»",
+        "link": "https://www.culture.ru/events/4787151/vystavka-proizvedeniya-zapadnoevropeiskogo-iskusstva-xvii-xix-vv"
+    },
+    {
+        "name": "Выставка «Где бродит леший?»",
+        "priceMin": 0,
+        "author": "Солодилов А.",
+        "place": "Музей природы г. Владимира",
+        "link": "https://www.culture.ru/events/4787148/vystavka-gde-brodit-leshii"
+    },
+    {
+        "name": "Выставка «Владимирская школа живописи»",
+        "priceMin": 100,
+        "author": "ЦПИИ",
+        "place": "Центр пропаганды изобразительного искусства г. Владимир",
+        "link": "https://www.culture.ru/events/4465253/vystavka-vladimirskaya-shkola-zhivopisi"
+    },
+    {
+        "name": "Экспозиция «Искусство провинции. XVIII — первая половина XIX века»",
+        "priceMin": 150,
+        "author": "Парфенов А.",
+        "place": "Музейный центр «Палаты»",
+        "link": "https://www.culture.ru/events/3214057/ekspoziciya-iskusstvo-provincii-xviii-pervaya-polovina-xix-veka"
+    },
+    {
+        "name": "Экспозиция «Дом-музей Столетовых»",
+        "priceMin": 150,
+        "author": "Солодилов А.",
+        "place": "Дом-музей Столетовых",
+        "link": "https://www.culture.ru/events/2689657/ekspoziciya-dom-muzei-stoletovykh"
+    },
+    {
+        "name": "Выставка «Сунгирь. Верхний палеолит в центре Русской равнины»",
+        "priceMin": 150,
+        "author": "Сунгирская лошадка. 25 тыс. л.н.",
+        "place": "Музейный центр «Палаты»",
+        "link": "https://www.culture.ru/events/2595360/vystavka-sungir-verkhnii-paleolit-v-centre-russkoi-ravniny"
+    },
+    {
+        "name": "Выставка «Музей воинской славы»",
+        "priceMin": 200,
+        "author": "Виктория Дусина",
+        "place": "Центр культуры и искусства на Соборной",
+        "link": "https://www.culture.ru/events/2373206/vystavka-muzei-voinskoi-slavy"
+    },
+    {
+        "name": "Экспозиция Музея природы",
+        "priceMin": 150,
+        "author": "Солодилов А.",
+        "place": "Музей природы г. Владимира",
+        "link": "https://www.culture.ru/events/1777387/ekspoziciya-muzeya-prirody"
+    },
+    {
+        "name": "Экспозиция Дмитриевского собора",
+        "priceMin": 150,
+        "author": "Солодилов А.Э.",
+        "place": "Дмитриевский собор",
+        "link": "https://www.culture.ru/events/1340340/ekspoziciya-dmitrievskogo-sobora"
+    },
+    {
+        "name": "Выставка «Современное искусство XX в. Художники Владимирской земли»",
+        "priceMin": 150,
+        "author": "Солодилов А.Э.",
+        "place": "Музейный центр «Палаты»",
+        "link": "https://www.culture.ru/events/1322718/vystavka-sovremennoe-iskusstvo-xx-v-khudozhniki-vladimirskoi-zemli"
+    },
+    {
+        "name": "Экспозиция «Интерьер Успенского собора»",
+        "priceMin": 200,
+        "author": "Парфенов А.",
+        "place": "Владимиро-Суздальский музей-заповедник",
+        "link": "https://www.culture.ru/events/1322703/ekspoziciya-interer-uspenskogo-sobora"
+    },
+    {
+        "name": "Выставка «Старый Владимир»",
+        "priceMin": 150,
+        "author": "Солодилов А.Э.",
+        "place": "Водонапорная башня (экспозиция «Старый Владимир»)",
+        "link": "https://www.culture.ru/events/1322681/vystavka-staryi-vladimir"
+    },
+    {
+        "name": "Экспозиция Музея хрусталя и стекла",
+        "priceMin": 150,
+        "author": "Солодилов А.Э.",
+        "place": "Музей хрусталя и стекла XVIII–XXI веков",
+        "link": "https://www.culture.ru/events/1322661/ekspoziciya-muzeya-khrustalya-i-stekla"
+    },
+    {
+        "name": "Выставка «Палаты»",
+        "priceMin": 400,
+        "author": "Владимиро-Суздальский музей-заповедник",
+        "place": "Музейный центр «Палаты»",
+        "link": "https://www.culture.ru/events/1320340/vystavka-palaty"
+    }
+]

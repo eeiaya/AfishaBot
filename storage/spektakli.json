@@ -1,0 +1,247 @@
+[
+    {
+        "name": "Мюзикл «Снежная королева»",
+        "priceMin": 500,
+        "author": "Эдуард Шадров",
+        "place": "Дом культуры «Энергетик» г. Владимира",
+        "link": "https://www.culture.ru/events/5151032/myuzikl-snezhnaya-koroleva"
+    },
+    {
+        "name": "Спектакль «За любовь благодарю…»",
+        "priceMin": 500,
+        "author": "Владимирский академический театр драмы",
+        "place": "Центр пропаганды изобразительного искусства г. Владимир",
+        "link": "https://www.culture.ru/events/5149322/spektakl-za-lyubov-blagodaryu"
+    },
+    {
+        "name": "Музыкальный спектакль «Буратино»",
+        "priceMin": 750,
+        "author": "Варвара Алексеевна Чуклова",
+        "place": "Музыкальный театр «Разгуляй»",
+        "link": "https://www.culture.ru/events/5144434/muzykalnyi-spektakl-buratino"
+    },
+    {
+        "name": "Спектакль «Необыкновенные приключения Бабуси-ягуси… Под Новый год…»",
+        "priceMin": 500,
+        "author": "вк",
+        "place": "Дом культуры молодежи г. Владимира",
+        "link": "https://www.culture.ru/events/5143246/spektakl-neobyknovennye-priklyucheniya-babusi-yagusi-pod-novyi-god"
+    },
+    {
+        "name": "Спектакль «Приключения друзей в Сказочной стране»",
+        "priceMin": 500,
+        "author": "Алексей Трифонов",
+        "place": "Владимирский областной колледж культуры и искусства",
+        "link": "https://www.culture.ru/events/5139763/spektakl-priklyucheniya-druzei-v-skazochnoi-strane"
+    },
+    {
+        "name": "Интерактивный спектакль «Новогодние приключения Снежного человечка»",
+        "priceMin": 200,
+        "author": "Неизвестно",
+        "place": "Центральный парк культуры и отдыха города Владимира",
+        "link": "https://www.culture.ru/events/5123553/interaktivnyi-spektakl-novogodnie-priklyucheniya-snezhnogo-chelovechka"
+    },
+    {
+        "name": "Мюзикл «Новогодняя история Пеппи Длинныйчулок»",
+        "priceMin": 600,
+        "author": "Владимирская филармония",
+        "place": "Концертный зал им. С. И. Танеева",
+        "link": "https://www.culture.ru/events/5106399/myuzikl-novogodnyaya-istoriya-peppi-dlinnyichulok"
+    },
+    {
+        "name": "Спектакль «Изумрудный город»",
+        "priceMin": 1200,
+        "author": "-",
+        "place": "Областной дворец культуры и искусства г. Владимира",
+        "link": "https://www.culture.ru/events/5036142/spektakl-izumrudnyi-gorod"
+    },
+    {
+        "name": "Новогоднее представление «Варежки для елки»",
+        "priceMin": 200,
+        "author": "Автор неизвестен",
+        "place": "Малая сцена Городского Дворца культуры",
+        "link": "https://www.culture.ru/events/5025903/novogodnee-predstavlenie-varezhki-dlya-elki"
+    },
+    {
+        "name": "Новогоднее представление «Карлик Нос»",
+        "priceMin": 500,
+        "author": "Наталья Георгиевна Загубняя",
+        "place": "Городской дворец культуры г. Владимир",
+        "link": "https://www.culture.ru/events/5018381/novogodnee-predstavlenie-karlik-nos"
+    },
+    {
+        "name": "Спектакль «Сильвия»",
+        "priceMin": 900,
+        "author": "Неизвестен",
+        "place": "Дом работников искусств им. Ю. А. Тумаркина",
+        "link": "https://www.culture.ru/events/4458661/spektakl-silviya"
+    },
+    {
+        "name": "Спектакль «Барышня-крестьянка»",
+        "priceMin": 600,
+        "author": "Татьяна Шалухина",
+        "place": "Областной дворец культуры и искусства г. Владимира",
+        "link": "https://www.culture.ru/events/4215786/spektakl-baryshnya-krestyanka"
+    },
+    {
+        "name": "Спектакль «Синие озера»",
+        "priceMin": 400,
+        "author": "Марина Ионова",
+        "place": "Владимирская областная научная библиотека",
+        "link": "https://www.culture.ru/events/4148940/spektakl-sinie-ozera"
+    },
+    {
+        "name": "Спектакль «Вовка в Тридевятом царстве»",
+        "priceMin": 500,
+        "author": "Константин Федяев",
+        "place": "Центр культуры и искусства на Соборной",
+        "link": "https://www.culture.ru/events/3859296/spektakl-vovka-v-tridevyatom-carstve"
+    },
+    {
+        "name": "Спектакль «Снежная королева»",
+        "priceMin": 550,
+        "author": "С. Малькова",
+        "place": "Владимирский областной театр кукол",
+        "link": "https://www.culture.ru/events/3827287/spektakl-snezhnaya-koroleva"
+    },
+    {
+        "name": "Музыкальная сказка «Морозко»",
+        "priceMin": 600,
+        "author": "Владимирская филармония",
+        "place": "Концертный зал им. С. И. Танеева",
+        "link": "https://www.culture.ru/events/3795217/muzykalnaya-skazka-morozko"
+    },
+    {
+        "name": "Спектакль «Ася»",
+        "priceMin": 400,
+        "author": "Татьяна Шалухина",
+        "place": "Владимирская областная научная библиотека",
+        "link": "https://www.culture.ru/events/3694706/spektakl-asya"
+    },
+    {
+        "name": "Спектакль «Девочка Снегурочка»",
+        "priceMin": 450,
+        "author": "М. Вахтанина",
+        "place": "Владимирский областной театр кукол",
+        "link": "https://www.culture.ru/events/3395759/spektakl-devochka-snegurochka"
+    },
+    {
+        "name": "Спектакль «Лес плюс»",
+        "priceMin": 500,
+        "author": "Константин Федяев",
+        "place": "Областной дворец культуры и искусства г. Владимира",
+        "link": "https://www.culture.ru/events/2798771/spektakl-les-plyus"
+    },
+    {
+        "name": "Спектакль «451 градус по Фаренгейту»",
+        "priceMin": 600,
+        "author": "Константин Федяев",
+        "place": "Областной дворец культуры и искусства г. Владимира",
+        "link": "https://www.culture.ru/events/2598557/spektakl-451-gradus-po-farengeitu"
+    },
+    {
+        "name": "Спектакль «Алиса в Стране чудес»",
+        "priceMin": 500,
+        "author": "Владимир Анатольевич Иванов",
+        "place": "Владимирский областной колледж культуры и искусства",
+        "link": "https://www.culture.ru/events/1783286/spektakl-alisa-v-strane-chudes"
+    },
+    {
+        "name": "Спектакль «Королевский бутерброд»",
+        "priceMin": 500,
+        "author": "Игнатова Светлана",
+        "place": "Центр культуры и искусства на Соборной",
+        "link": "https://www.culture.ru/events/1548904/spektakl-korolevskii-buterbrod"
+    },
+    {
+        "name": "Спектакль «Доходное место»",
+        "priceMin": 350,
+        "author": "Игнатова С.Б.",
+        "place": "Областной дворец культуры и искусства г. Владимира",
+        "link": "https://www.culture.ru/events/931896/spektakl-dokhodnoe-mesto"
+    },
+    {
+        "name": "Спектакль «Андрей Боголюбский»",
+        "priceMin": 600,
+        "author": "Игнатова С.Б.",
+        "place": "Областной дворец культуры и искусства г. Владимира",
+        "link": "https://www.culture.ru/events/898256/spektakl-andrei-bogolyubskii"
+    },
+    {
+        "name": "Спектакль «Вредные советы»",
+        "priceMin": 500,
+        "author": "Светлана ",
+        "place": "Центр культуры и искусства на Соборной",
+        "link": "https://www.culture.ru/events/898050/spektakl-vrednye-sovety"
+    },
+    {
+        "name": "Спектакль «Муфта, Полботинка и Моховая Борода»",
+        "priceMin": 550,
+        "author": "М.Вахтанина",
+        "place": "Владимирский областной театр кукол",
+        "link": "https://www.culture.ru/events/877720/spektakl-mufta-polbotinka-i-mokhovaya-boroda"
+    },
+    {
+        "name": "Спектакль «№ 13»",
+        "priceMin": 350,
+        "author": "Шалухина Т.А.",
+        "place": "Областной дворец культуры и искусства г. Владимира",
+        "link": "https://www.culture.ru/events/876791/spektakl-13"
+    },
+    {
+        "name": "Спектакль «Лисичка-сестричка и Серый волк»",
+        "priceMin": 450,
+        "author": "С.Малькова",
+        "place": "Владимирский областной театр кукол",
+        "link": "https://www.culture.ru/events/784725/spektakl-lisichka-sestrichka-i-seryi-volk"
+    },
+    {
+        "name": "Спектакль «Про Ежика и Медвежонка»",
+        "priceMin": 450,
+        "author": "С. Малькова",
+        "place": "Владимирский областной театр кукол",
+        "link": "https://www.culture.ru/events/746347/spektakl-pro-ezhika-i-medvezhonka"
+    },
+    {
+        "name": "Спектакль «Подарок Бабушки-яги»",
+        "priceMin": 350,
+        "author": "С. Малькова",
+        "place": "Владимирский областной театр кукол",
+        "link": "https://www.culture.ru/events/581323/spektakl-podarok-babushki-yagi"
+    },
+    {
+        "name": "Спектакль «Круглый год»",
+        "priceMin": 450,
+        "author": "С.Малькова",
+        "place": "Владимирский областной театр кукол",
+        "link": "https://www.culture.ru/events/577527/spektakl-kruglyi-god"
+    },
+    {
+        "name": "Спектакль «Ёлка для Бабы-яги»",
+        "priceMin": 450,
+        "author": "С.Малькова",
+        "place": "Владимирский областной театр кукол",
+        "link": "https://www.culture.ru/events/570693/spektakl-yolka-dlya-baby-yagi"
+    },
+    {
+        "name": "Спектакль «Двенадцать месяцев»",
+        "priceMin": 550,
+        "author": "С.Малькова",
+        "place": "Владимирский областной театр кукол",
+        "link": "https://www.culture.ru/events/162735/spektakl-dvenadcat-mesyacev"
+    },
+    {
+        "name": "Спектакль «Ночь перед Рождеством»",
+        "priceMin": 550,
+        "author": "С.Малькова",
+        "place": "Владимирский областной театр кукол",
+        "link": "https://www.culture.ru/events/70075/spektakl-noch-pered-rozhdestvom"
+    },
+    {
+        "name": "Спектакль «Морозко»",
+        "priceMin": 350,
+        "author": "С.Малькова",
+        "place": "Владимирский областной театр кукол",
+        "link": "https://www.culture.ru/events/70049/spektakl-morozko"
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "name": "Концерт «Здравствуй, гостья зима!»",
+        "priceMin": 0,
+        "author": "Снежин А.Б.",
+        "place": "Детская школа искусств № 3 г. Владимира",
+        "link": "https://www.culture.ru/events/5191897/koncert-zdravstvui-gostya-zima"
+    },
+    {
+        "name": "Концерт Алины Ивах",
+        "priceMin": 700,
+        "author": "Неизвестен",
+        "place": "Дом работников искусств им. Ю. А. Тумаркина",
+        "link": "https://www.culture.ru/events/5189501/koncert-aliny-ivakh"
+    },
+    {
+        "name": "Концерт Областного детского симфонического оркестра",
+        "priceMin": 200,
+        "author": "Александра Бутенина",
+        "place": "Центр классической музыки г. Владимира",
+        "link": "https://www.culture.ru/events/5182727/koncert-oblastnogo-detskogo-simfonicheskogo-orkestra"
+    },
+    {
+        "name": "Концерт In another dimension",
+        "priceMin": 850,
+        "author": "Александра Бутенина",
+        "place": "Центр классической музыки г. Владимира",
+        "link": "https://www.culture.ru/events/5180243/koncert-in-another-dimension"
+    },
+    {
+        "name": "Концерт «Музыка слов и поэзия звуков»",
+        "priceMin": 500,
+        "author": "Владимирская филармония",
+        "place": "Концертный зал им. С. И. Танеева",
+        "link": "https://www.culture.ru/events/5158620/koncert-muzyka-slov-i-poeziya-zvukov"
+    },
+    {
+        "name": "Концерт «Русское Рождество»",
+        "priceMin": 500,
+        "author": "Владимирская филармония",
+        "place": "Концертный зал им. С. И. Танеева",
+        "link": "https://www.culture.ru/events/5158579/koncert-russkoe-rozhdestvo"
+    },
+    {
+        "name": "Большой концерт «Разбираем елку»",
+        "priceMin": 300,
+        "author": "Антонов Михаил Юрьевич",
+        "place": "Городской дворец культуры г. Владимир",
+        "link": "https://www.culture.ru/events/5158474/bolshoi-koncert-razbiraem-elku"
+    },
+    {
+        "name": "Рождественский концерт хореографических ансамблей «Колокольчик» и «Звоны»",
+        "priceMin": 300,
+        "author": "Антонов Михаил Юрьевич",
+        "place": "Городской дворец культуры г. Владимир",
+        "link": "https://www.culture.ru/events/5158456/rozhdestvenskii-koncert-khoreograficheskikh-ansamblei-kolokolchik-i-zvony"
+    },
+    {
+        "name": "Литературно-музыкальная композиция «Германия: серебряный колокольчик»",
+        "priceMin": 400,
+        "author": "Владимирская филармония",
+        "place": "Концертный зал им. С. И. Танеева",
+        "link": "https://www.culture.ru/events/5156619/literaturno-muzykalnaya-kompoziciya-germaniya-serebryanyi-kolokolchik"
+    },
+    {
+        "name": "Концерт «Триумф романса»",
+        "priceMin": 500,
+        "author": "Владимирская филармония",
+        "place": "Концертный зал им. С. И. Танеева",
+        "link": "https://www.culture.ru/events/5156349/koncert-triumf-romansa"
+    },
+    {
+        "name": "Концерт «С этой весной постучится любовь»",
+        "priceMin": 350,
+        "author": "Владимирская филармония",
+        "place": "Концертный зал им. С. И. Танеева",
+        "link": "https://www.culture.ru/events/5153030/koncert-s-etoi-vesnoi-postuchitsya-lyubov"
+    },
+    {
+        "name": "Концерт «Мелодии духовых инструментов»",
+        "priceMin": 0,
+        "author": "Термета В.Г.",
+        "place": "Детская музыкальная школа № 1 им. С. И. Танеева",
+        "link": "https://www.culture.ru/events/5151819/koncert-melodii-dukhovykh-instrumentov"
+    },
+    {
+        "name": "Концерт «Детская филармония»",
+        "priceMin": 0,
+        "author": "Костикова Ю.В.",
+        "place": "Детская музыкальная школа № 1 им. С. И. Танеева",
+        "link": "https://www.culture.ru/events/5151773/koncert-detskaya-filarmoniya"
+    },
+    {
+        "name": "Концерт «Новогодняя ассамблея»",
+        "priceMin": 0,
+        "author": "неизвестен",
+        "place": "Детская школа искусств № 2 им. С. С. Прокофьева",
+        "link": "https://www.culture.ru/events/5132657/koncert-novogodnyaya-assambleya"
+    },
+    {
+        "name": "Концерт «Русские узоры»",
+        "priceMin": 0,
+        "author": "неизвестен",
+        "place": "Детская школа искусств № 2 им. С. С. Прокофьева",
+        "link": "https://www.culture.ru/events/5132407/koncert-russkie-uzory"
+    },
+    {
+        "name": "Концерт «Новогодний серпантин»",
+        "priceMin": 0,
+        "author": "неизвестен",
+        "place": "Детская школа искусств № 2 им. С. С. Прокофьева",
+        "link": "https://www.culture.ru/events/5132228/koncert-novogodnii-serpantin"
+    },
+    {
+        "name": "Концерт «Новогодний калейдоскоп»",
+        "priceMin": 0,
+        "author": "Калина С.А.",
+        "place": "Детская школа искусств № 5 г. Владимира",
+        "link": "https://www.culture.ru/events/5108242/koncert-novogodnii-kaleidoskop"
+    },
+    {
+        "name": "Концерт «Самый Новый год»",
+        "priceMin": 600,
+        "author": "-",
+        "place": "Областной дворец культуры и искусства г. Владимира",
+        "link": "https://www.culture.ru/events/5046305/koncert-samyi-novyi-god"
+    },
+    {
+        "name": "Концерт «Новогодний джем»",
+        "priceMin": 500,
+        "author": "Владимирская филармония",
+        "place": "Концертный зал им. С. И. Танеева",
+        "link": "https://www.culture.ru/events/5034978/koncert-novogodnii-dzhem"
+    },
+    {
+        "name": "Абонемент № 14 «Добрые традиции»",
+        "priceMin": 1800,
+        "author": "Владимирская филармония",
+        "place": "Концертный зал им. С. И. Танеева",
+        "link": "https://www.culture.ru/events/4986018/abonement-14-dobrye-tradicii"
+    },
+    {
+        "name": "Абонемент № 5 «Музыка для души»",
+        "priceMin": 1400,
+        "author": "Владимирская филармония",
+        "place": "Концертный зал им. С. И. Танеева",
+        "link": "https://www.culture.ru/events/4794606/abonement-5-muzyka-dlya-dushi"
+    },
+    {
+        "name": "Абонемент № 10 «Золотая коллекция»",
+        "priceMin": 1400,
+        "author": "Владимирская филармония",
+        "place": "Концертный зал им. С. И. Танеева",
+        "link": "https://www.culture.ru/events/4794604/abonement-10-zolotaya-kollekciya"
+    },
+    {
+        "name": "Шоу «Такая разная скрипка»",
+        "priceMin": 500,
+        "author": "Неизвестен",
+        "place": "Дом работников искусств им. Ю. А. Тумаркина",
+        "link": "https://www.culture.ru/events/4395926/shou-takaya-raznaya-skripka"
+    }
+]
